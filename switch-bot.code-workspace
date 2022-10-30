@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "switch-bot",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp32-hal.h": "c",
+			"lv_example_others.h": "c",
+			"lvgl.h": "c",
+			"*.tcc": "cpp"
+		}
+	}
+}
