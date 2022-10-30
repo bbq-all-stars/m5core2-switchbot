@@ -11,6 +11,6 @@
 			"lv_example_others.h": "c",
 			"lvgl.h": "c",
 			"*.tcc": "cpp"
-		}
+		},
 	}
 }
