@@ -1,6 +1,7 @@
 # m5core2-switchbot
-Switchbot applicatoin of M5Stack Core2.
-**This application is under development**
+Switchbot applicatoin of M5Stack Core2.  
+
+**THIS APPLICATION IS UNDER DEVELOPMENT**
 
 ## Requirement
 * Visual Studio Code
